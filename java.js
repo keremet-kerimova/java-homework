@@ -131,17 +131,18 @@
  
 
 
-let country =  prompt (`На каком языке хочешь узать " Новый год"`);
- switch (country){
-    case "Кыргызстан":
-      console.log ("жаны жылын менен");
-      break;
+// let country =  prompt (`На каком языке хочешь узать " Новый год"`);
+//  switch (country){
+//     case "Кыргызстан":
+//       console.log ("жаны жылын менен");
+//       break;
 
-    case "AKШ":
-       console.log ("Happy new year");
-       break;
+//     case "AKШ":
+//        console.log ("Happy new year");
+//        break;
 
-    case "Немецкий":
-       console.log ("Neues Jahr!");
-       break;
-}
+//     case "Немецкий":
+//        console.log ("Neues Jahr!");
+//        break;
+// }
+
